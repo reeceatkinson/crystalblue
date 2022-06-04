@@ -1,0 +1,21 @@
+{
+    "name": "crystalblue",
+    "displayName": "Crystal Blue",
+    "description": "Crystal Blue is a VS Code them for lovers of blue - based off of reeceatkinson.com",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Code Blue.",
+                "uiTheme": "vs",
+                "path": "./themes/Code Blue.-color-theme.json"
+            }
+        ]
+    }
+}
